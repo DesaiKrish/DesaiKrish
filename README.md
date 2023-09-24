@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">- My name is Krish Desai. <br>- I'm a 2nd year undergrad student pursuing CSE. <br>- Currently, I'm learning DSA and Database management.<br>- I like to talk and deep dive into supervised machine learning and make useful projects out of it.</p>
+<p align="left">- My name is Krish Desai. <br>- I'm a 2nd year undergrad student pursuing CSE. <br>- I like to talk and deep dive into supervised machine learning and make useful projects out of it.</p>
 
 ###
 
