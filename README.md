@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on my DSA skills.<br>👯 I'm looking to collaborate on nodejs projects.<br>🤝 I'm looking for help in Flutter development.<br>🌱  I'm currently learning JS frameworks and DBMS.<br>💬 Ask me about: Machine Learning concepts(I may not know!).<br>⚡ Fun fact: In the 1950s, IBM’s John Backus and his colleagues devised the first coding language, 'Fortran'.<br> <br><br><br><br>
+🔭 I'm currently working on Algorithm Analysis and Design.<br>👯 I'm looking to collaborate on nodejs projects.<br>🤝 I'm seeking guidance in Flutter development.<br>🌱  I'm currently learning JS frameworks like Next.js and Bun.js.<br>💬 Ask me about: Machine Learning concepts(I may not know🙂!).<br>⚡ Fun fact: In the 1950s, IBM’s John Backus and his colleagues devised the first coding language, 'Fortran'.<br> <br><br><br><br>
 
 
 ## 🌐 Socials:
