@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on Algorithm Analysis and Design.<br>👯 I'm looking to collaborate on nodejs projects.<br>🤝 I'm learning Android development in Flutter(Dart).<br>🌱  I'm currently learning JS frameworks like Next.js and three.js.<br>💬 Ask me about: Machine Learning concepts(I may not know🙂!).<br><br> <br><br>
+🔭 I'm currently working on Algorithm Analysis and Design.<br>👯 I'm looking to collaborate on node.js projects.<br>🤝 I'm learning Android development in Flutter(Dart).<br>🌱  I'm currently learning JS frameworks like Next.js and three.js.<br>💬 Ask me about: Machine Learning concepts(I may not know🙂!).<br><br> <br><br>
 
 
 ## 🌐 Socials:
