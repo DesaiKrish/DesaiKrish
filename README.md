@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on Advanced Computer Architecture.<br>👯 I'm looking to collaborate on node.js projects.<br>🤝 I'm learning ML and more.<br>🌱 I'm currently working as an organiser in DUHacks 4.0<br>💬 Ask me about: Machine Learning concepts(I may not know🙂!).<br><br> <br><br>
+🔭 I'm currently learning on Advance Computer Architecture.<br>👯 I'm looking to collaborate on Web Service Development projects.<br>🤝 I'm currently learning LLM pipelines.<br>🌱 I'm currently working as an organiser in DUHacks 4.0<br>💬 Ask me about: Machine Learning concepts(I may not know🙂!).<br><br> <br><br>
 
 
 ## 🌐 Socials:
